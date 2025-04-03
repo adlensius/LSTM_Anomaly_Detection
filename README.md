@@ -1,5 +1,5 @@
 # Risk Events and Risk Behaviour Windows Detection with Univariate LSTM Model
-This is a consulting project with Lloyds Banking Group as a dissertation presented for the degree of MSc in Statistics with Data Science.
+A consulting project with Lloyds Banking Group as part of dissertation presented for the degree of MSc in Statistics with Data Science.
 
 # Goal
 This project aims to develop an unsupervised modelling process/framework to detect risk events and risk behaviour windows in Lloyds Banking Group employees' spending activities.

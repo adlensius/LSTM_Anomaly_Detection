@@ -4,13 +4,6 @@ A consulting project with Lloyds Banking Group as part of a dissertation present
 # Goal
 This project aims to develop an unsupervised modelling process/framework to detect risk events and risk behaviour windows in Lloyds Banking Group employees' spending activities.
 
-# Content
-The full report can be found in S2591760_Dissertation_Anomaly_Detection.pdf
-
-All code used are written in the Python notebook Lloyds_Banking_Group_Notebook.ipynb.
-
-The data used is stored in Lloyds_data.csv. 
-
 # Overview
 Panel data on 2185 Lloyds
 Banking Group employees was collected, which included their spending amounts, departments, dates,
@@ -28,6 +21,12 @@ risky behaviours to prevent unwanted loss and ensure stability, but also refrain
 alarms to curb unnecessar ty costs and maintain the user’s trust level in the model. Therefore, the F1
 score metric, which captures the balance of both criteria, is employed to measure models’ performances.
 
+# Content
+S2591760_Dissertation_Anomaly_Detection.pdf is the full report
+
+All code used to generate results and figures are written in the Python notebook Lloyds_Banking_Group_Notebook.ipynb.
+
+The data used is stored in Lloyds_data.csv.
 
 
 

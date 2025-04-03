@@ -27,7 +27,7 @@ score metric, which captures the balance of both criteria, is employed to measur
 * The data used is stored in Lloyds_data.csv.
 * poster_adlensius_fransiskus_djunaedi.pdf is the academic poster for research presentation
 
-#　Author
+# Author
 This dissertation is authored by Adlensius Fransiskus Djunaedi
 
 Supervised by Dr Tim Cannings and Dr Cecilia Balocchi

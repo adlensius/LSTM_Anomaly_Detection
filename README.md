@@ -5,9 +5,9 @@ This is a consulting project with Lloyds Banking Group as a dissertation present
 This project aims to develop an unsupervised modelling process/framework to detect risk events and risk behaviour windows in Lloyds Banking Group employees' spending activities.
 
 # Content
-The full report can be found in Lloyds_LSTM_Report.pdf
+The full report can be found in S2591760_Dissertation_Anomaly_Detection.pdf
 
-All code used are written in the Python notebook Lloyds_LSTM_code.ipynb.
+All code used are written in the Python notebook Lloyds_Banking_Group_Notebook.ipynb.
 
 The data used is stored in Lloyds_data.csv. 
 

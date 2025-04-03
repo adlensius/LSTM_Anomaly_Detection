@@ -28,6 +28,8 @@ All code used to generate results and figures are written in the Python notebook
 
 The data used is stored in Lloyds_data.csv.
 
+poster_adlensius_fransiskus_djunaedi.pdf is the academic poster for research presentation
+
 
 
 

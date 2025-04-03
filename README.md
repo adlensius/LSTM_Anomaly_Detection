@@ -22,15 +22,15 @@ alarms to curb unnecessar ty costs and maintain the user’s trust level in the 
 score metric, which captures the balance of both criteria, is employed to measure models’ performances.
 
 # Content
-S2591760_Dissertation_Anomaly_Detection.pdf is the full report
+* S2591760_Dissertation_Anomaly_Detection.pdf is the full report
+* All code used to generate results and figures are written in the Python notebook Lloyds_Banking_Group_Notebook.ipynb.
+* The data used is stored in Lloyds_data.csv.
+* poster_adlensius_fransiskus_djunaedi.pdf is the academic poster for research presentation
 
-All code used to generate results and figures are written in the Python notebook Lloyds_Banking_Group_Notebook.ipynb.
+#　Author
+This dissertation is authored by Adlensius Fransiskus Djunaedi
 
-The data used is stored in Lloyds_data.csv.
-
-poster_adlensius_fransiskus_djunaedi.pdf is the academic poster for research presentation
-
-
+Supervised by Dr Tim Cannings and Dr Cecilia Balocchi
 
 
 
